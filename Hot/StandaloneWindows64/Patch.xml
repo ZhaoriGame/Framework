@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Pathces xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="1">
+  <Files Name="StandaloneWindows64" Url="http://127.0.0.1/AssetBundle/0.1/1/StandaloneWindows64" Platform="StandaloneWindows64" Md5="f7432abdce892138b8fea07ab71ec5fb" Size="1.83789063" />
+  <Files Name="ugui" Url="http://127.0.0.1/AssetBundle/0.1/1/ugui" Platform="StandaloneWindows64" Md5="d4e502d2c3d8b026d85d02e674c151a6" Size="192.900391" />
+</Pathces>
